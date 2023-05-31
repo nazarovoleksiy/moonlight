@@ -707,6 +707,7 @@ nav a:hover::before {
 	font-size: 13px;
 	color: #fff;
 	margin-bottom: 20px;
+	margin-top: 30px;
 }
 
 .footer .content p a {
