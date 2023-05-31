@@ -59,6 +59,13 @@ body.lb-disable-scrolling {
   background-color: white;
 }
 
+.logo_light {
+  color: white;
+  font-family: "Agency FB", sans-serif;
+  font-size: 30px;
+  letter-spacing: 7px;
+}
+
 .lb-outerContainer:after {
   content: "";
   display: table;
